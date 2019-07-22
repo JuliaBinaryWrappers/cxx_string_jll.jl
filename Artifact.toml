@@ -1,0 +1,252 @@
+[[cxx_string]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1cd45030fbb7205fff151ba6b325a50af6eeb76f"
+libc = "glibc"
+os = "linux"
+
+    [[cxx_string.download]]
+    sha256 = "596dd8ed734dc78370944c8b5b49b2e166948e20ae5f25727e239c1a6c409462"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.x86_64-linux-gnu-cxx11.tar.gz"
+[[cxx_string]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ec4c6fe7135c251f16e3747ee94db3c297c25e3b"
+os = "freebsd"
+
+    [[cxx_string.download]]
+    sha256 = "568fdf9bb77271a40a56d2ad0af38d72073da3d381bfd828d65a4d9ee1a4eef8"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+[[cxx_string]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d0118b859f96162086581c0ed123b8db09bd19bf"
+libc = "glibc"
+os = "linux"
+
+    [[cxx_string.download]]
+    sha256 = "ebb005626882a2911e3b7a0845a15fa885c24de8240d2357b888267622130853"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.x86_64-linux-gnu-cxx03.tar.gz"
+[[cxx_string]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "961472c5b13c5946178419d117e947bab8f27271"
+libc = "glibc"
+os = "linux"
+
+    [[cxx_string.download]]
+    sha256 = "2fabb44ca6fa4b0a55d871612a72085349bcecb8f8ea55d2c31e838dcce58f96"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.arm-linux-gnueabihf-cxx03.tar.gz"
+[[cxx_string]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4c85f507a072eb779b1a017e080f90c9c2f0942d"
+os = "windows"
+
+    [[cxx_string.download]]
+    sha256 = "23f7ed6b68de3cd531cbc4f6a55531200cfb5e34ac97b191b0dc4c471f553fd2"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.i686-w64-mingw32-cxx03.tar.gz"
+[[cxx_string]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1ba1a18c2b4a3204a7af537f0c2f7b9118a0b6fb"
+os = "windows"
+
+    [[cxx_string.download]]
+    sha256 = "8ea1511c0a281a6d9bb3a7dd06546fa70240d037a3a12a55fe8971a54fa48355"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.x86_64-w64-mingw32-cxx03.tar.gz"
+[[cxx_string]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bdf112ed4e5ccb57dd0043243053dca4a1027ab9"
+libc = "musl"
+os = "linux"
+
+    [[cxx_string.download]]
+    sha256 = "7071089fb950461b2566d4d47335c320ff0f9dfbdc39259e5a17abe62e4383ca"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.arm-linux-musleabihf-cxx03.tar.gz"
+[[cxx_string]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f54512715e5702fa1e55f9d741d3b0e568f401e3"
+libc = "glibc"
+os = "linux"
+
+    [[cxx_string.download]]
+    sha256 = "52e00c82aa8d5f152a8cfc9fe5ff259fe9bac474b2786f32a60d58f9cb06d1b5"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.aarch64-linux-gnu-cxx11.tar.gz"
+[[cxx_string]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "adc884dd9194b3a278e2dab268bc2814921cdc86"
+os = "windows"
+
+    [[cxx_string.download]]
+    sha256 = "93122c72bac7dafe02d4a8c16a0adf335344fafa7ee73c84ccb3aee623c546d3"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.x86_64-w64-mingw32-cxx11.tar.gz"
+[[cxx_string]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "35a6b5648ecc90cd2bd9d2948c7e0fa4ef85f12d"
+libc = "musl"
+os = "linux"
+
+    [[cxx_string.download]]
+    sha256 = "c72e5538ccaba4aa142da6e45f7c067e07bfdcf364f9e9cc2dcaa7b19c6d57d5"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.aarch64-linux-musl-cxx11.tar.gz"
+[[cxx_string]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "99adabf708d9d106d31dacf2e8db6aa4ace7358e"
+libc = "glibc"
+os = "linux"
+
+    [[cxx_string.download]]
+    sha256 = "697d11abe87470d3d4282af331271251290b62137c35b60994b1cb10ce526823"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[cxx_string]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ac62895d83567dd8ad32f409d872d04549dce55b"
+os = "macos"
+
+    [[cxx_string.download]]
+    sha256 = "862f7d1f58f07af7b57641ac1ca597a2861e8709ac0fc3040bcae0a956a1e325"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.x86_64-apple-darwin14-cxx11.tar.gz"
+[[cxx_string]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "72052ecf3277e342ab085d3930c6b5be2b63b759"
+libc = "glibc"
+os = "linux"
+
+    [[cxx_string.download]]
+    sha256 = "bb186d0327c340abe717b9d210764e304e16c2b14728f1fa43ec5e07350e4858"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.i686-linux-gnu-cxx11.tar.gz"
+[[cxx_string]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1e986e3b7d32af05f2253c8900ccff75ab0d7f6f"
+os = "freebsd"
+
+    [[cxx_string.download]]
+    sha256 = "f30fafd83a81d51def13101d5573d34f4bfb8503571c1e0c6319b6e147d59218"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+[[cxx_string]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "af92fde644ca27c4ebbd97f9dd55407dde5dea00"
+libc = "glibc"
+os = "linux"
+
+    [[cxx_string.download]]
+    sha256 = "1ef820150bbb9ccc4509cbfe236f88d1bdecab7ff14b1e9bc49d888a1e9171df"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.i686-linux-gnu-cxx03.tar.gz"
+[[cxx_string]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "35413b8f99e5fa6583bb298d4f7dde411e9a7c0d"
+libc = "glibc"
+os = "linux"
+
+    [[cxx_string.download]]
+    sha256 = "b3ecb4365bac08e2729cde2138ec0e3ff19acdfffe78803c61bf96b9862d60bb"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.aarch64-linux-gnu-cxx03.tar.gz"
+[[cxx_string]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c6f99e9ee8692e170b6efae400ca55da1eedef2c"
+libc = "musl"
+os = "linux"
+
+    [[cxx_string.download]]
+    sha256 = "ae2ff77514ca4acee76506d3f3c150f3f96891dc20e383d75d1c7ab7657b53a3"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.arm-linux-musleabihf-cxx11.tar.gz"
+[[cxx_string]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2b555c176c0be2eff5d68d2965a78348dab9698a"
+libc = "musl"
+os = "linux"
+
+    [[cxx_string.download]]
+    sha256 = "959d7d2413f1f96fb1c9652faf25d4302540f90618a10aa42a10658330009e97"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.i686-linux-musl-cxx11.tar.gz"
+[[cxx_string]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5787f934e93068a7e7c835889214f2b1b93b218d"
+os = "windows"
+
+    [[cxx_string.download]]
+    sha256 = "7127c6797aead4b8b4ded6b1af7d74ed89f527d6ed5aa8488d1eb9e9f67fdca8"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.i686-w64-mingw32-cxx11.tar.gz"
+[[cxx_string]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b49080e38508b8d0c13cf1177f11fca5876760c0"
+libc = "glibc"
+os = "linux"
+
+    [[cxx_string.download]]
+    sha256 = "249db11d39c749a44851ef97460a2110b1191dc0daaba4d2cfba4c5cf2ea6682"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.arm-linux-gnueabihf-cxx11.tar.gz"
+[[cxx_string]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "43602b6c9e082bde2b68ea6d70f01ec873d69d8e"
+libc = "glibc"
+os = "linux"
+
+    [[cxx_string.download]]
+    sha256 = "9803f1dabc85151e7c3f82c3bb6a731beda0f746727a8ae24652997d04319ae7"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[cxx_string]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2e31303c0e52e015a6cc699aa3a767fa90e7038a"
+libc = "musl"
+os = "linux"
+
+    [[cxx_string.download]]
+    sha256 = "52dd462a9e54d23f6fb54f5c7a534a1d1f045bad7cb0ccabc32abb3edd37feb3"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.i686-linux-musl-cxx03.tar.gz"
+[[cxx_string]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bec3777aa28ffcb43d769f2e04d7b28d77e6bba7"
+libc = "musl"
+os = "linux"
+
+    [[cxx_string.download]]
+    sha256 = "3f6c6ad275cca1164cc6a5b400541e0c9cc1ae71e5209fe6257d85e0eef7a0ca"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.x86_64-linux-musl-cxx03.tar.gz"
+[[cxx_string]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fbcdf2b47fa05e8375cf4b4859055d5ea8a85c7e"
+libc = "musl"
+os = "linux"
+
+    [[cxx_string.download]]
+    sha256 = "f54f47fbe008131a0459f2f9dade618302d8e378c4acedd21f6a16e9f04ee7da"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.aarch64-linux-musl-cxx03.tar.gz"
+[[cxx_string]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "13491a0ac896e4ab92a8b3a66c793b2cb31bbe17"
+libc = "musl"
+os = "linux"
+
+    [[cxx_string.download]]
+    sha256 = "992ea6753776c33bb50123b356defb3f0f6f71ade973f04f7b599026333e4705"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.x86_64-linux-musl-cxx11.tar.gz"
+[[cxx_string]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bcbb4870049097d0eb59724d02d43f16318fd943"
+os = "macos"
+
+    [[cxx_string.download]]
+    sha256 = "0cd73d2e2e1af1e3cb50fc68a587e1ba6180b2a68ef4184dc429d3b3f37fee97"
+    url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.x86_64-apple-darwin14-cxx03.tar.gz"
