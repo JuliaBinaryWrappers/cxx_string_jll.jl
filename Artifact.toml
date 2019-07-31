@@ -253,12 +253,12 @@ os = "linux"
 [[cxx_string]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7beedbfd284cc8dd05cc5850acbf8d6faf1aae7b"
+git-tree-sha1 = "72e47eb459c8aa4bc8aaf970420a5cabce6dd544"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 libstdcxx_version = "3.4.26"
 os = "linux"
 
     [[cxx_string.download]]
-    sha256 = "762d385bbc646b30e59953c093788e3b6a2f98fc1579e718da2458176c94b0db"
+    sha256 = "921f224b467d8b9db971d946f01b61ac703325a3a03554b8238582609e30bafa"
     url = "https://github.com/JuliaBinaryWrappers/cxx_string_jll.jl/releases/download/cxx_string+v1.2.4+0/cxx_string.v1.2.4.x86_64-linux-gnu-libgfortran5-libstdcxx26-cxx11.tar.gz"
