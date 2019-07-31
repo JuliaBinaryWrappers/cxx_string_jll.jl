@@ -1,5 +1,5 @@
 name = "cxx_string_jll"
-uuid = "dfb16eaa-a348-5490-80fa-20e67ae8449f"
+uuid = "f99eb9cb-c7bd-507f-abe4-b6f69f1046e2"
 version = "1.2.4+0"
 
 [deps]
